@@ -34,3 +34,4 @@
 - 多了一个` Content-Type: application/x-www-form-urlencoded`请求头
   
   ## 参考资料
+https://dev.to/sidthesloth92/understanding-html-form-encoding-url-encoded-and-multipart-forms-3lpa
